@@ -1,0 +1,1 @@
+This repository accompanies the paper "Machine Learning Potential Insights into the Lattice Thermal Transport and Phonon Localization of Ga2O3 Polymorphs". It contains the crystal structures of δ-Ga2O3, along with the NEP potentials and training sets for α-Ga2O3 and δ-Ga2O3.
